@@ -10,4 +10,5 @@ Features
 <ul>
 <li>Login</li>
 <li>Register</li>
+<li>Splash</li>
 </ul>
