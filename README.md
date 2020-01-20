@@ -8,4 +8,5 @@ This project is a starting point for a Flutter application.
 
 <ul>
 <li>Login</li>
+<li>Register</li>
 </ul>
